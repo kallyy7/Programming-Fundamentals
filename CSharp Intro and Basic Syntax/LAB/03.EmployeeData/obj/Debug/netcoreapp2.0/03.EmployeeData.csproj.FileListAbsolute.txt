@@ -1,0 +1,10 @@
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\bin\Debug\netcoreapp2.0\03.EmployeeData.deps.json
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\bin\Debug\netcoreapp2.0\03.EmployeeData.runtimeconfig.json
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\bin\Debug\netcoreapp2.0\03.EmployeeData.runtimeconfig.dev.json
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\bin\Debug\netcoreapp2.0\03.EmployeeData.dll
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\bin\Debug\netcoreapp2.0\03.EmployeeData.pdb
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\obj\Debug\netcoreapp2.0\03.EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\obj\Debug\netcoreapp2.0\03.EmployeeData.AssemblyInfoInputs.cache
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\obj\Debug\netcoreapp2.0\03.EmployeeData.AssemblyInfo.cs
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\obj\Debug\netcoreapp2.0\03.EmployeeData.dll
+C:\Users\a38145\source\repos\ConsoleApp3\03.EmployeeData\obj\Debug\netcoreapp2.0\03.EmployeeData.pdb

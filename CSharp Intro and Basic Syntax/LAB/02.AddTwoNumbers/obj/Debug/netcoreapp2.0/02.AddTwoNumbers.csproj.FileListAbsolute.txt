@@ -1,0 +1,11 @@
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.deps.json
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.runtimeconfig.json
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.runtimeconfig.dev.json
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.dll
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\bin\Debug\netcoreapp2.0\02.AddTwoNumbers.pdb
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.csprojAssemblyReference.cache
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.AssemblyInfo.cs
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.dll
+C:\Users\a38145\source\repos\ConsoleApp3\02.AddTwoNumbers\obj\Debug\netcoreapp2.0\02.AddTwoNumbers.pdb
