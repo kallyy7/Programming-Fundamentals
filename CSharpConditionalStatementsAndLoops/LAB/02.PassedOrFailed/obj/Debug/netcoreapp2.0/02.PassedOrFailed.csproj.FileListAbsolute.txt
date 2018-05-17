@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\bin\Debug\netcoreapp2.0\02.PassedOrFailed.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\bin\Debug\netcoreapp2.0\02.PassedOrFailed.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\bin\Debug\netcoreapp2.0\02.PassedOrFailed.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\bin\Debug\netcoreapp2.0\02.PassedOrFailed.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\bin\Debug\netcoreapp2.0\02.PassedOrFailed.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\obj\Debug\netcoreapp2.0\02.PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\obj\Debug\netcoreapp2.0\02.PassedOrFailed.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\obj\Debug\netcoreapp2.0\02.PassedOrFailed.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\obj\Debug\netcoreapp2.0\02.PassedOrFailed.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\02.PassedOrFailed\obj\Debug\netcoreapp2.0\02.PassedOrFailed.pdb

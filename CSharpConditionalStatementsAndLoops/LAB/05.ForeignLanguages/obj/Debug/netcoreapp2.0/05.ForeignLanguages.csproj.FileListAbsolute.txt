@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\bin\Debug\netcoreapp2.0\05.ForeignLanguages.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\lab\ConStatAndLoops\05.ForeignLanguages\obj\Debug\netcoreapp2.0\05.ForeignLanguages.pdb
