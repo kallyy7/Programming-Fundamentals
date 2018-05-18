@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\11.DifferentNumbers\bin\Debug\11.DifferentNumbers.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\11.DifferentNumbers\bin\Debug\11.DifferentNumbers.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\11.DifferentNumbers\bin\Debug\11.DifferentNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\11.DifferentNumbers\obj\Debug\11.DifferentNumbers.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\11.DifferentNumbers\obj\Debug\11.DifferentNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\11.DifferentNumbers\obj\Debug\11.DifferentNumbers.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\11.DifferentNumbers\obj\Debug\11.DifferentNumbers.pdb

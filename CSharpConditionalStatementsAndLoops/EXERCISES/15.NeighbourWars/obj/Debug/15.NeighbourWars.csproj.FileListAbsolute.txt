@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\15.NeighbourWars\bin\Debug\15.NeighbourWars.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\15.NeighbourWars\bin\Debug\15.NeighbourWars.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\15.NeighbourWars\obj\Debug\15.NeighbourWars.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\15.NeighbourWars\obj\Debug\15.NeighbourWars.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\15.NeighbourWars\obj\Debug\15.NeighbourWars.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\15.NeighbourWars\obj\Debug\15.NeighbourWars.pdb

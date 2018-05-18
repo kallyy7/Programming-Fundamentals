@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\14.MagicLetter\bin\Debug\14.MagicLetter.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\14.MagicLetter\bin\Debug\14.MagicLetter.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\14.MagicLetter\bin\Debug\14.MagicLetter.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\14.MagicLetter\obj\Debug\14.MagicLetter.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\14.MagicLetter\obj\Debug\14.MagicLetter.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\14.MagicLetter\obj\Debug\14.MagicLetter.pdb
