@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\04.Elevator\bin\Debug\04.Elevator.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\04.Elevator\bin\Debug\04.Elevator.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\04.Elevator\bin\Debug\04.Elevator.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\04.Elevator\obj\Debug\04.Elevator.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\04.Elevator\obj\Debug\04.Elevator.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\04.Elevator\obj\Debug\04.Elevator.pdb

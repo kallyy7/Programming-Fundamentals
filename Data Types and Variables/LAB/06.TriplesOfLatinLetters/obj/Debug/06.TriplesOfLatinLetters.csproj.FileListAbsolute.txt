@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\06.TriplesOfLatinLetters\bin\Debug\06.TriplesOfLatinLetters.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\06.TriplesOfLatinLetters\obj\Debug\06.TriplesOfLatinLetters.pdb

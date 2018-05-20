@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\07.Greeting\bin\Debug\07.Greeting.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\07.Greeting\bin\Debug\07.Greeting.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\07.Greeting\bin\Debug\07.Greeting.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\07.Greeting\obj\Debug\07.Greeting.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\07.Greeting\obj\Debug\07.Greeting.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\07.Greeting\obj\Debug\07.Greeting.pdb

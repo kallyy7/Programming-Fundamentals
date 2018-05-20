@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb

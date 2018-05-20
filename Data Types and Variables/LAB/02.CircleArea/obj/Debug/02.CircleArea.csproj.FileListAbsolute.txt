@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\02.CircleArea\bin\Debug\02.CircleArea.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\02.CircleArea\bin\Debug\02.CircleArea.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\02.CircleArea\bin\Debug\02.CircleArea.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\02.CircleArea\obj\Debug\02.CircleArea.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\02.CircleArea\obj\Debug\02.CircleArea.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\02.CircleArea\obj\Debug\02.CircleArea.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\02.CircleArea\obj\Debug\02.CircleArea.pdb

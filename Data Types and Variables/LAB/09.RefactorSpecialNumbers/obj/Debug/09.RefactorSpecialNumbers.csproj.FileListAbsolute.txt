@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\09.RefactorSpecialNumbers\bin\Debug\09.RefactorSpecialNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\09.RefactorSpecialNumbers\obj\Debug\09.RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\09.RefactorSpecialNumbers\obj\Debug\09.RefactorSpecialNumbers.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\LAB\DataTypesAndVariabless\09.RefactorSpecialNumbers\obj\Debug\09.RefactorSpecialNumbers.pdb
