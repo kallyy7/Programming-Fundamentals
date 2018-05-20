@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\15.FastPrimeChecker\bin\Debug\15.FastPrimeChecker.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\15.FastPrimeChecker\obj\Debug\15.FastPrimeChecker.pdb

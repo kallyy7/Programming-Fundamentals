@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\07.ExchangeVariableValues\bin\Debug\07.ExchangeVariableValues.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\07.ExchangeVariableValues\obj\Debug\07.ExchangeVariableValues.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\07.ExchangeVariableValues\obj\Debug\07.ExchangeVariableValues.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\07.ExchangeVariableValues\obj\Debug\07.ExchangeVariableValues.pdb

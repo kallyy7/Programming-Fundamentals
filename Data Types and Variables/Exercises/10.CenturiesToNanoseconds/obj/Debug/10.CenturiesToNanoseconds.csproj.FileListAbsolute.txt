@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\10.CenturiesToNanoseconds\bin\Debug\10.CenturiesToNanoseconds.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\10.CenturiesToNanoseconds\obj\Debug\10.CenturiesToNanoseconds.pdb

@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\14.IntegerToHexAndBinary\bin\Debug\14.IntegerToHexAndBinary.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\14.IntegerToHexAndBinary\obj\Debug\14.IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\14.IntegerToHexAndBinary\obj\Debug\14.IntegerToHexAndBinary.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\14.IntegerToHexAndBinary\obj\Debug\14.IntegerToHexAndBinary.pdb

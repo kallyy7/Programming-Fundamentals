@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\13.VowelOrDigit\bin\Debug\13.VowelOrDigit.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\13.VowelOrDigit\obj\Debug\13.VowelOrDigit.pdb
