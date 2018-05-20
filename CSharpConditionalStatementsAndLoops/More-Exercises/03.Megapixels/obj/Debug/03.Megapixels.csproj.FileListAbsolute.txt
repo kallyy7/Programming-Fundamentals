@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\03.Megapixels\bin\Debug\03.Megapixels.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\03.Megapixels\bin\Debug\03.Megapixels.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\03.Megapixels\bin\Debug\03.Megapixels.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\03.Megapixels\obj\Debug\03.Megapixels.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\03.Megapixels\obj\Debug\03.Megapixels.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\03.Megapixels\obj\Debug\03.Megapixels.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\03.Megapixels\obj\Debug\03.Megapixels.pdb

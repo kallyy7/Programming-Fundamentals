@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\07.TrainingHallEquip\bin\Debug\07.TrainingHallEquip.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\07.TrainingHallEquip\bin\Debug\07.TrainingHallEquip.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\07.TrainingHallEquip\bin\Debug\07.TrainingHallEquip.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\07.TrainingHallEquip\obj\Debug\07.TrainingHallEquip.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\07.TrainingHallEquip\obj\Debug\07.TrainingHallEquip.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\07.TrainingHallEquip\obj\Debug\07.TrainingHallEquip.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\07.TrainingHallEquip\obj\Debug\07.TrainingHallEquip.pdb

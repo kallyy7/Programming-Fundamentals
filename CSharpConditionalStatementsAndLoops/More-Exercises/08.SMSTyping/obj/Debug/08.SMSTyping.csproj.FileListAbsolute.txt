@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\08.SMSTyping\bin\Debug\08.SMSTyping.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\08.SMSTyping\bin\Debug\08.SMSTyping.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\08.SMSTyping\bin\Debug\08.SMSTyping.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\08.SMSTyping\obj\Debug\08.SMSTyping.pdb

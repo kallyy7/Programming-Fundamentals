@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\MoreExercises\bin\Debug\MoreExercises.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\MoreExercises\bin\Debug\MoreExercises.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\MoreExercises\bin\Debug\MoreExercises.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\MoreExercises\obj\Debug\01.X.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\MoreExercises\obj\Debug\01.X.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\MoreExercises\obj\Debug\MoreExercises.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\MoreExercises\obj\Debug\MoreExercises.pdb

@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\05.BPMCounter\bin\Debug\05.BPMCounter.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\MoreExercises\05.BPMCounter\obj\Debug\05.BPMCounter.pdb
