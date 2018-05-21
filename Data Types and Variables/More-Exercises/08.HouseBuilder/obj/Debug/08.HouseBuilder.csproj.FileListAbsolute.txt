@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\08.HouseBuilder\bin\Debug\08.HouseBuilder.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\08.HouseBuilder\bin\Debug\08.HouseBuilder.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\08.HouseBuilder\bin\Debug\08.HouseBuilder.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\08.HouseBuilder\obj\Debug\08.HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\08.HouseBuilder\obj\Debug\08.HouseBuilder.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\08.HouseBuilder\obj\Debug\08.HouseBuilder.pdb

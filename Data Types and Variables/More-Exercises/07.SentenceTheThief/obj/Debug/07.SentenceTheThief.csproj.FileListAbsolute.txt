@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\07.SentenceTheThief\bin\Debug\07.SentenceTheThief.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\07.SentenceTheThief\bin\Debug\07.SentenceTheThief.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\07.SentenceTheThief\bin\Debug\07.SentenceTheThief.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\07.SentenceTheThief\obj\Debug\07.SentenceTheThief.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\07.SentenceTheThief\obj\Debug\07.SentenceTheThief.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\07.SentenceTheThief\obj\Debug\07.SentenceTheThief.pdb

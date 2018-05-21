@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\11.StringConcatenation\bin\Debug\11.StringConcatenation.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\11.StringConcatenation\bin\Debug\11.StringConcatenation.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\11.StringConcatenation\bin\Debug\11.StringConcatenation.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\11.StringConcatenation\obj\Debug\11.StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\11.StringConcatenation\obj\Debug\11.StringConcatenation.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\11.StringConcatenation\obj\Debug\11.StringConcatenation.pdb

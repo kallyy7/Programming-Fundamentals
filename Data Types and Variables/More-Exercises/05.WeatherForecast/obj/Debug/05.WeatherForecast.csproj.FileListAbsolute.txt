@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\05.WeatherForecast\bin\Debug\05.WeatherForecast.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\05.WeatherForecast\bin\Debug\05.WeatherForecast.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\05.WeatherForecast\bin\Debug\05.WeatherForecast.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\05.WeatherForecast\obj\Debug\05.WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\05.WeatherForecast\obj\Debug\05.WeatherForecast.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\05.WeatherForecast\obj\Debug\05.WeatherForecast.pdb

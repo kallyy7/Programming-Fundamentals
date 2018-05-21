@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\04.TouristInformation\bin\Debug\04.TouristInformation.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\04.TouristInformation\bin\Debug\04.TouristInformation.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\04.TouristInformation\bin\Debug\04.TouristInformation.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\04.TouristInformation\obj\Debug\04.TouristInformation.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\04.TouristInformation\obj\Debug\04.TouristInformation.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\More-Exercises\MoreExercises\04.TouristInformation\obj\Debug\04.TouristInformation.pdb
