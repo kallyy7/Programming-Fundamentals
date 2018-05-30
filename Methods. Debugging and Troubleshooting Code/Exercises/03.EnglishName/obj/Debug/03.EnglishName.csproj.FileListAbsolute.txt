@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\03.EnglishName\bin\Debug\03.EnglishName.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\03.EnglishName\bin\Debug\03.EnglishName.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\03.EnglishName\bin\Debug\03.EnglishName.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\03.EnglishName\obj\Debug\03.EnglishName.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\03.EnglishName\obj\Debug\03.EnglishName.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\03.EnglishName\obj\Debug\03.EnglishName.pdb
