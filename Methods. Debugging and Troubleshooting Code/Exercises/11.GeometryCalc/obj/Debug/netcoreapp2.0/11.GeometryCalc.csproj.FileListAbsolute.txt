@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\bin\Debug\netcoreapp2.0\11.GeometryCalc.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\bin\Debug\netcoreapp2.0\11.GeometryCalc.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\bin\Debug\netcoreapp2.0\11.GeometryCalc.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\bin\Debug\netcoreapp2.0\11.GeometryCalc.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\bin\Debug\netcoreapp2.0\11.GeometryCalc.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\obj\Debug\netcoreapp2.0\11.GeometryCalc.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\obj\Debug\netcoreapp2.0\11.GeometryCalc.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\obj\Debug\netcoreapp2.0\11.GeometryCalc.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\obj\Debug\netcoreapp2.0\11.GeometryCalc.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\11.GeometryCalc\obj\Debug\netcoreapp2.0\11.GeometryCalc.pdb

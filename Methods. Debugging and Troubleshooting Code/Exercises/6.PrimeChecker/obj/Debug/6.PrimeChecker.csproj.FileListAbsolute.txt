@@ -1,0 +1,6 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\6.PrimeChecker\bin\Debug\6.PrimeChecker.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\6.PrimeChecker\bin\Debug\6.PrimeChecker.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\6.PrimeChecker\bin\Debug\6.PrimeChecker.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\6.PrimeChecker\obj\Debug\6.PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\6.PrimeChecker\obj\Debug\6.PrimeChecker.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\6.PrimeChecker\obj\Debug\6.PrimeChecker.pdb

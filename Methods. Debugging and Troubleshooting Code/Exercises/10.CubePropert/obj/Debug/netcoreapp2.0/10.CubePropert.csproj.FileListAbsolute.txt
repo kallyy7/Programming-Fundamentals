@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\bin\Debug\netcoreapp2.0\10.CubePropert.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\bin\Debug\netcoreapp2.0\10.CubePropert.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\bin\Debug\netcoreapp2.0\10.CubePropert.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\bin\Debug\netcoreapp2.0\10.CubePropert.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\bin\Debug\netcoreapp2.0\10.CubePropert.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\obj\Debug\netcoreapp2.0\10.CubePropert.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\obj\Debug\netcoreapp2.0\10.CubePropert.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\obj\Debug\netcoreapp2.0\10.CubePropert.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\obj\Debug\netcoreapp2.0\10.CubePropert.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\obj\Debug\netcoreapp2.0\10.CubePropert.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\10.CubePropert\obj\Debug\netcoreapp2.0\10.CubePropert.pdb

@@ -1,0 +1,7 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\7.PrimesGivenRa\bin\Debug\7.PrimesGivenRa.exe.config
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\7.PrimesGivenRa\bin\Debug\7.PrimesGivenRa.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\7.PrimesGivenRa\bin\Debug\7.PrimesGivenRa.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\7.PrimesGivenRa\obj\Debug\7.PrimesGivenRa.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\7.PrimesGivenRa\obj\Debug\7.PrimesGivenRa.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\7.PrimesGivenRa\obj\Debug\7.PrimesGivenRa.exe
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\7.PrimesGivenRa\obj\Debug\7.PrimesGivenRa.pdb
