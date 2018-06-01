@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\bin\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\bin\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\bin\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\bin\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\bin\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\obj\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\obj\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\obj\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\obj\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\obj\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\09.ExtractMiddle12Or3Elements\obj\Debug\netcoreapp2.0\09.ExtractMiddle12Or3Elements.pdb

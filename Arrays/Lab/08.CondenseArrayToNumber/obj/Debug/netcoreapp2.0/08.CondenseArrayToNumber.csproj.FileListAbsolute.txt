@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\bin\Debug\netcoreapp2.0\08.CondenseArrayToNumber.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\bin\Debug\netcoreapp2.0\08.CondenseArrayToNumber.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\bin\Debug\netcoreapp2.0\08.CondenseArrayToNumber.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\bin\Debug\netcoreapp2.0\08.CondenseArrayToNumber.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\bin\Debug\netcoreapp2.0\08.CondenseArrayToNumber.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\obj\Debug\netcoreapp2.0\08.CondenseArrayToNumber.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\obj\Debug\netcoreapp2.0\08.CondenseArrayToNumber.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\obj\Debug\netcoreapp2.0\08.CondenseArrayToNumber.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\obj\Debug\netcoreapp2.0\08.CondenseArrayToNumber.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\obj\Debug\netcoreapp2.0\08.CondenseArrayToNumber.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\08.CondenseArrayToNumber\obj\Debug\netcoreapp2.0\08.CondenseArrayToNumber.pdb

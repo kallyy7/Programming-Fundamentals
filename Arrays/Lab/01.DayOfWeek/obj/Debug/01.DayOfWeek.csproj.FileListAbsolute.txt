@@ -1,0 +1,7 @@
+C:\Users\34802\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Arrays - Lab\ArraysLab\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe.config
+C:\Users\34802\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Arrays - Lab\ArraysLab\01.DayOfWeek\bin\Debug\01.DayOfWeek.exe
+C:\Users\34802\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Arrays - Lab\ArraysLab\01.DayOfWeek\bin\Debug\01.DayOfWeek.pdb
+C:\Users\34802\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Arrays - Lab\ArraysLab\01.DayOfWeek\obj\Debug\01.DayOfWeek.csprojResolveAssemblyReference.cache
+C:\Users\34802\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Arrays - Lab\ArraysLab\01.DayOfWeek\obj\Debug\01.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\34802\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Arrays - Lab\ArraysLab\01.DayOfWeek\obj\Debug\01.DayOfWeek.exe
+C:\Users\34802\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Arrays - Lab\ArraysLab\01.DayOfWeek\obj\Debug\01.DayOfWeek.pdb

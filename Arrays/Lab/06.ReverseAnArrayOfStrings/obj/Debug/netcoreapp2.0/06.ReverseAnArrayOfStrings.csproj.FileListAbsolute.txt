@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\bin\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\Arrays - Lab\ArraysLab\06.ReverseAnArrayOfStrings\obj\Debug\netcoreapp2.0\06.ReverseAnArrayOfStrings.pdb
