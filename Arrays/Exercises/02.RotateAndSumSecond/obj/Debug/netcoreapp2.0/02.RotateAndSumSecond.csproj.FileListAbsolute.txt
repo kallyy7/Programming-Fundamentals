@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\bin\Debug\netcoreapp2.0\02.RotateAndSumSecond.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\bin\Debug\netcoreapp2.0\02.RotateAndSumSecond.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\bin\Debug\netcoreapp2.0\02.RotateAndSumSecond.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\bin\Debug\netcoreapp2.0\02.RotateAndSumSecond.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\bin\Debug\netcoreapp2.0\02.RotateAndSumSecond.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\obj\Debug\netcoreapp2.0\02.RotateAndSumSecond.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\obj\Debug\netcoreapp2.0\02.RotateAndSumSecond.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\obj\Debug\netcoreapp2.0\02.RotateAndSumSecond.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\obj\Debug\netcoreapp2.0\02.RotateAndSumSecond.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\02.RotateAndSumSecond\obj\Debug\netcoreapp2.0\02.RotateAndSumSecond.pdb

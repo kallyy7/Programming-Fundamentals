@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.0\01.LargestCommonEnd.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.0\01.LargestCommonEnd.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.0\01.LargestCommonEnd.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.0\01.LargestCommonEnd.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.0\01.LargestCommonEnd.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.0\01.LargestCommonEnd.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.0\01.LargestCommonEnd.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.0\01.LargestCommonEnd.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\bin\Debug\netcoreapp2.0\01.LargestCommonEnd.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.0\01.LargestCommonEnd.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\01.LargestCommonEnd\obj\Debug\netcoreapp2.0\01.LargestCommonEnd.pdb

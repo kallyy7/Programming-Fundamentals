@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\bin\Debug\netcoreapp2.0\03.FoldAndSum.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\bin\Debug\netcoreapp2.0\03.FoldAndSum.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\bin\Debug\netcoreapp2.0\03.FoldAndSum.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\bin\Debug\netcoreapp2.0\03.FoldAndSum.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\bin\Debug\netcoreapp2.0\03.FoldAndSum.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\obj\Debug\netcoreapp2.0\03.FoldAndSum.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\obj\Debug\netcoreapp2.0\03.FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\obj\Debug\netcoreapp2.0\03.FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\obj\Debug\netcoreapp2.0\03.FoldAndSum.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\obj\Debug\netcoreapp2.0\03.FoldAndSum.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\05.Arrays\exercises\exercises\03.FoldAndSum\obj\Debug\netcoreapp2.0\03.FoldAndSum.pdb
