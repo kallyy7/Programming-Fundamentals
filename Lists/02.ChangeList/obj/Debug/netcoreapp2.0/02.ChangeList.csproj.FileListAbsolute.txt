@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.pdb

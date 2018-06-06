@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\bin\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\01.MaxSequenceOfEqualElements\obj\Debug\netcoreapp2.0\01.MaxSequenceOfEqualElements.csprojAssemblyReference.cache
