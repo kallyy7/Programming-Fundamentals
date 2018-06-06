@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\bin\Debug\netcoreapp2.0\06.SumReversedNumbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\bin\Debug\netcoreapp2.0\06.SumReversedNumbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\bin\Debug\netcoreapp2.0\06.SumReversedNumbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\bin\Debug\netcoreapp2.0\06.SumReversedNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\bin\Debug\netcoreapp2.0\06.SumReversedNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\obj\Debug\netcoreapp2.0\06.SumReversedNumbers.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\obj\Debug\netcoreapp2.0\06.SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\obj\Debug\netcoreapp2.0\06.SumReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\obj\Debug\netcoreapp2.0\06.SumReversedNumbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\obj\Debug\netcoreapp2.0\06.SumReversedNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\exercises\exercises\06.SumReversedNumbers\obj\Debug\netcoreapp2.0\06.SumReversedNumbers.pdb
