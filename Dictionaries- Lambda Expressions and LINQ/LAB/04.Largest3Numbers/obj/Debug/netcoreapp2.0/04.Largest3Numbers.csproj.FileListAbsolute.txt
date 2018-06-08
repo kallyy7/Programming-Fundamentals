@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\bin\Debug\netcoreapp2.0\04.Largest3Numbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\bin\Debug\netcoreapp2.0\04.Largest3Numbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\bin\Debug\netcoreapp2.0\04.Largest3Numbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\bin\Debug\netcoreapp2.0\04.Largest3Numbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\bin\Debug\netcoreapp2.0\04.Largest3Numbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\obj\Debug\netcoreapp2.0\04.Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\obj\Debug\netcoreapp2.0\04.Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\obj\Debug\netcoreapp2.0\04.Largest3Numbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\obj\Debug\netcoreapp2.0\04.Largest3Numbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\obj\Debug\netcoreapp2.0\04.Largest3Numbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\LAB\04.Largest3Numbers\obj\Debug\netcoreapp2.0\04.Largest3Numbers.csprojAssemblyReference.cache
