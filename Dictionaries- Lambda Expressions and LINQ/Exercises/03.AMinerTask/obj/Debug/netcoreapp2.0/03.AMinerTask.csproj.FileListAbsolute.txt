@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\bin\Debug\netcoreapp2.0\03.AMinerTask.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\bin\Debug\netcoreapp2.0\03.AMinerTask.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\bin\Debug\netcoreapp2.0\03.AMinerTask.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\bin\Debug\netcoreapp2.0\03.AMinerTask.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\bin\Debug\netcoreapp2.0\03.AMinerTask.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\obj\Debug\netcoreapp2.0\03.AMinerTask.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\obj\Debug\netcoreapp2.0\03.AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\obj\Debug\netcoreapp2.0\03.AMinerTask.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\obj\Debug\netcoreapp2.0\03.AMinerTask.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\obj\Debug\netcoreapp2.0\03.AMinerTask.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\03.AMinerTask\obj\Debug\netcoreapp2.0\03.AMinerTask.pdb

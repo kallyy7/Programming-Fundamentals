@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\02.PhonebookUpgrade.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\02.PhonebookUpgrade.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\02.PhonebookUpgrade.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\02.PhonebookUpgrade.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\bin\Debug\netcoreapp2.0\02.PhonebookUpgrade.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\02.PhonebookUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\02.PhonebookUpgrade.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\02.PhonebookUpgrade.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\02.PhonebookUpgrade.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\02.PhonebookUpgrade.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\02.PhonebookUpgrade\obj\Debug\netcoreapp2.0\02.PhonebookUpgrade.csprojAssemblyReference.cache

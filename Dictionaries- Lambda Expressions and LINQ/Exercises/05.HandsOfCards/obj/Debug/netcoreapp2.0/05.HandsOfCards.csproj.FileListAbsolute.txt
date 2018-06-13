@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\bin\Debug\netcoreapp2.0\05.HandsOfCards.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\bin\Debug\netcoreapp2.0\05.HandsOfCards.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\bin\Debug\netcoreapp2.0\05.HandsOfCards.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\bin\Debug\netcoreapp2.0\05.HandsOfCards.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\bin\Debug\netcoreapp2.0\05.HandsOfCards.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\obj\Debug\netcoreapp2.0\05.HandsOfCards.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\obj\Debug\netcoreapp2.0\05.HandsOfCards.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\obj\Debug\netcoreapp2.0\05.HandsOfCards.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\obj\Debug\netcoreapp2.0\05.HandsOfCards.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\obj\Debug\netcoreapp2.0\05.HandsOfCards.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\05.HandsOfCards\obj\Debug\netcoreapp2.0\05.HandsOfCards.pdb
