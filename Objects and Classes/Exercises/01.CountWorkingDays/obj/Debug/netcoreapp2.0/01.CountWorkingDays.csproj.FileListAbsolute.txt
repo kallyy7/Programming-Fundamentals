@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\bin\Debug\netcoreapp2.0\01.CountWorkingDays.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\bin\Debug\netcoreapp2.0\01.CountWorkingDays.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\bin\Debug\netcoreapp2.0\01.CountWorkingDays.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\bin\Debug\netcoreapp2.0\01.CountWorkingDays.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\bin\Debug\netcoreapp2.0\01.CountWorkingDays.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\obj\Debug\netcoreapp2.0\01.CountWorkingDays.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\obj\Debug\netcoreapp2.0\01.CountWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\obj\Debug\netcoreapp2.0\01.CountWorkingDays.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\obj\Debug\netcoreapp2.0\01.CountWorkingDays.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\obj\Debug\netcoreapp2.0\01.CountWorkingDays.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\01.CountWorkingDays\obj\Debug\netcoreapp2.0\01.CountWorkingDays.pdb

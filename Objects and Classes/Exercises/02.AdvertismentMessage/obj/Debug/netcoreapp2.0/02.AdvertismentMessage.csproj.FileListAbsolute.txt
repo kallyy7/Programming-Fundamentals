@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\bin\Debug\netcoreapp2.0\02.AdvertismentMessage.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\bin\Debug\netcoreapp2.0\02.AdvertismentMessage.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\bin\Debug\netcoreapp2.0\02.AdvertismentMessage.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\bin\Debug\netcoreapp2.0\02.AdvertismentMessage.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\bin\Debug\netcoreapp2.0\02.AdvertismentMessage.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\obj\Debug\netcoreapp2.0\02.AdvertismentMessage.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\obj\Debug\netcoreapp2.0\02.AdvertismentMessage.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\obj\Debug\netcoreapp2.0\02.AdvertismentMessage.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\obj\Debug\netcoreapp2.0\02.AdvertismentMessage.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\obj\Debug\netcoreapp2.0\02.AdvertismentMessage.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\02.AdvertismentMessage\obj\Debug\netcoreapp2.0\02.AdvertismentMessage.pdb

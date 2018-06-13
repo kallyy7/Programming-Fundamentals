@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\bin\Debug\netcoreapp2.0\05.BookLibrary.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\bin\Debug\netcoreapp2.0\05.BookLibrary.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\bin\Debug\netcoreapp2.0\05.BookLibrary.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\bin\Debug\netcoreapp2.0\05.BookLibrary.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\bin\Debug\netcoreapp2.0\05.BookLibrary.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\obj\Debug\netcoreapp2.0\05.BookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\obj\Debug\netcoreapp2.0\05.BookLibrary.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\obj\Debug\netcoreapp2.0\05.BookLibrary.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\obj\Debug\netcoreapp2.0\05.BookLibrary.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\05.BookLibrary\obj\Debug\netcoreapp2.0\05.BookLibrary.pdb
