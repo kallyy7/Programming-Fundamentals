@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\bin\Debug\netcoreapp2.0\11.DragonArmy.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\bin\Debug\netcoreapp2.0\11.DragonArmy.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\bin\Debug\netcoreapp2.0\11.DragonArmy.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\bin\Debug\netcoreapp2.0\11.DragonArmy.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\bin\Debug\netcoreapp2.0\11.DragonArmy.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\obj\Debug\netcoreapp2.0\11.DragonArmy.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\obj\Debug\netcoreapp2.0\11.DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\obj\Debug\netcoreapp2.0\11.DragonArmy.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\obj\Debug\netcoreapp2.0\11.DragonArmy.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\obj\Debug\netcoreapp2.0\11.DragonArmy.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\exercises\exercises\13.DragonArmy\obj\Debug\netcoreapp2.0\11.DragonArmy.pdb
