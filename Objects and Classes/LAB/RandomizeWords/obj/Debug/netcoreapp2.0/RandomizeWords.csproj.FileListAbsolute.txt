@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\bin\Debug\netcoreapp2.0\RandomizeWords.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\RandomizeWords\obj\Debug\netcoreapp2.0\RandomizeWords.pdb

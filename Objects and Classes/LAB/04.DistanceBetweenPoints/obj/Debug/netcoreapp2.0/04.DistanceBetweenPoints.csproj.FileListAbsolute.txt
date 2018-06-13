@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04.DistanceBetweenPoints.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04.DistanceBetweenPoints.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04.DistanceBetweenPoints.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04.DistanceBetweenPoints.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\bin\Debug\netcoreapp2.0\04.DistanceBetweenPoints.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04.DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04.DistanceBetweenPoints.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04.DistanceBetweenPoints.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04.DistanceBetweenPoints.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\04.DistanceBetweenPoints\obj\Debug\netcoreapp2.0\04.DistanceBetweenPoints.pdb

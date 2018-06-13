@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\lab\lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.pdb
