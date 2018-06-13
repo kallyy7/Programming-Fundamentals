@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\bin\Debug\netcoreapp2.0\09.TeamWorkProjects.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\bin\Debug\netcoreapp2.0\09.TeamWorkProjects.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\bin\Debug\netcoreapp2.0\09.TeamWorkProjects.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\bin\Debug\netcoreapp2.0\09.TeamWorkProjects.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\bin\Debug\netcoreapp2.0\09.TeamWorkProjects.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\obj\Debug\netcoreapp2.0\09.TeamWorkProjects.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\obj\Debug\netcoreapp2.0\09.TeamWorkProjects.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\obj\Debug\netcoreapp2.0\09.TeamWorkProjects.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\obj\Debug\netcoreapp2.0\09.TeamWorkProjects.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\09.TeamWorkProjects\obj\Debug\netcoreapp2.0\09.TeamWorkProjects.pdb

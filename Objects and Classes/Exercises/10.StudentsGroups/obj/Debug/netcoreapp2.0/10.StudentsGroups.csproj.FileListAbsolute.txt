@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\bin\Debug\netcoreapp2.0\10.StudentsGroups.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\bin\Debug\netcoreapp2.0\10.StudentsGroups.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\bin\Debug\netcoreapp2.0\10.StudentsGroups.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\bin\Debug\netcoreapp2.0\10.StudentsGroups.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\bin\Debug\netcoreapp2.0\10.StudentsGroups.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\obj\Debug\netcoreapp2.0\10.StudentsGroups.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\obj\Debug\netcoreapp2.0\10.StudentsGroups.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\obj\Debug\netcoreapp2.0\10.StudentsGroups.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\obj\Debug\netcoreapp2.0\10.StudentsGroups.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\obj\Debug\netcoreapp2.0\10.StudentsGroups.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\10.StudentsGroups\obj\Debug\netcoreapp2.0\10.StudentsGroups.pdb

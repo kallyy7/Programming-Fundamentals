@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\07.AndreyAndBilliard.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\07.AndreyAndBilliard.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\07.AndreyAndBilliard.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\07.AndreyAndBilliard.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\bin\Debug\netcoreapp2.0\07.AndreyAndBilliard.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\07.AndreyAndBilliard.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\07.AndreyAndBilliard.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\07.AndreyAndBilliard.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\07.AndreyAndBilliard.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\07.AndreyAndBilliard.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Object and Classes\Exercises\exercises\07.AndreyAndBilliard\obj\Debug\netcoreapp2.0\07.AndreyAndBilliard.pdb
