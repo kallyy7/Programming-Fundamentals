@@ -27,7 +27,7 @@
 #### 7. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Lists" > Dictionaries, Lambda Expressions & LINQ </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/LAB" > LAB </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/Exercises" > Exercises </a>
-
+- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/More%20Exercises" > More Exercises </a>
 #### 8. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Objects%20and%20Classes" > Object and Classes </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Objects%20and%20Classes/LAB" > LAB </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Objects%20and%20Classes/Exercises" > Exercises </a>
