@@ -6,7 +6,7 @@ namespace _05.Magic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Magic :D!");
         }
     }
 }
