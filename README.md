@@ -45,4 +45,4 @@
 - <a href="" > Exercises </a>
 
 ##  <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams" > Old Exams </a>
-
+- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Retake%20Exam%20-%2025%20April%202018" > Programming Fundamentals Retake Exam - 25 April 2018 </a>
