@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\bin\Debug\netcoreapp2.0\06.SquareNumbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\bin\Debug\netcoreapp2.0\06.SquareNumbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\bin\Debug\netcoreapp2.0\06.SquareNumbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\bin\Debug\netcoreapp2.0\06.SquareNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\bin\Debug\netcoreapp2.0\06.SquareNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\obj\Debug\netcoreapp2.0\06.SquareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\obj\Debug\netcoreapp2.0\06.SquareNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\obj\Debug\netcoreapp2.0\06.SquareNumbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\obj\Debug\netcoreapp2.0\06.SquareNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\06.SquareNumbers\obj\Debug\netcoreapp2.0\06.SquareNumbers.pdb

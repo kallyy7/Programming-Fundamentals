@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\bin\Debug\netcoreapp2.0\07.CountNumbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\bin\Debug\netcoreapp2.0\07.CountNumbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\bin\Debug\netcoreapp2.0\07.CountNumbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\bin\Debug\netcoreapp2.0\07.CountNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\bin\Debug\netcoreapp2.0\07.CountNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\obj\Debug\netcoreapp2.0\07.CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\obj\Debug\netcoreapp2.0\07.CountNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\obj\Debug\netcoreapp2.0\07.CountNumbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\obj\Debug\netcoreapp2.0\07.CountNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\obj\Debug\netcoreapp2.0\07.CountNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\07.CountNumbers\obj\Debug\netcoreapp2.0\07.CountNumbers.csprojAssemblyReference.cache

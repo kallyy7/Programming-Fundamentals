@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\03.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\03.SumAdjacentEqualNumbers.pdb

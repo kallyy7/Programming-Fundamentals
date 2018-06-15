@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\bin\Debug\netcoreapp2.0\05.SortNumbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\bin\Debug\netcoreapp2.0\05.SortNumbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\bin\Debug\netcoreapp2.0\05.SortNumbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\bin\Debug\netcoreapp2.0\05.SortNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\bin\Debug\netcoreapp2.0\05.SortNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\obj\Debug\netcoreapp2.0\05.SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\obj\Debug\netcoreapp2.0\05.SortNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\obj\Debug\netcoreapp2.0\05.SortNumbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\obj\Debug\netcoreapp2.0\05.SortNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\05.SortNumbers\obj\Debug\netcoreapp2.0\05.SortNumbers.pdb

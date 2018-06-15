@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\07.Lists\LAB\LAB\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.pdb
