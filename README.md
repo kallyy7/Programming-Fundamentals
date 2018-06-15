@@ -34,6 +34,9 @@
 #### 9. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Strings%20and%20Text%20Processing" > Strings and Text Processing </a>
 - <a href="" > LAB </a>
 - <a href="" > Exercises </a>
+#### 10. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX" > Regular Expressions-(REGEX) </a>
+- <a href="" > LAB </a>
+- <a href="" > Exercises </a>
 
 
 
