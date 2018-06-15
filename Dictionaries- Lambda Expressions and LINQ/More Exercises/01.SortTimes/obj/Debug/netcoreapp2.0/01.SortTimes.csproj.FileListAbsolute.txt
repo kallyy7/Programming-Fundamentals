@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\bin\Debug\netcoreapp2.0\01.SortTimes.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\bin\Debug\netcoreapp2.0\01.SortTimes.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\bin\Debug\netcoreapp2.0\01.SortTimes.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\bin\Debug\netcoreapp2.0\01.SortTimes.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\bin\Debug\netcoreapp2.0\01.SortTimes.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\obj\Debug\netcoreapp2.0\01.SortTimes.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\obj\Debug\netcoreapp2.0\01.SortTimes.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\obj\Debug\netcoreapp2.0\01.SortTimes.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\obj\Debug\netcoreapp2.0\01.SortTimes.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\obj\Debug\netcoreapp2.0\01.SortTimes.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Dictionaries, Lambda Expressions and LINQ\more exercises\moreExercises\01.SortTimes\obj\Debug\netcoreapp2.0\01.SortTimes.pdb
