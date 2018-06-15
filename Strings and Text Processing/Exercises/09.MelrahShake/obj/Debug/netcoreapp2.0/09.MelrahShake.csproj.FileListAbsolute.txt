@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\bin\Debug\netcoreapp2.0\09.MelrahShake.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\09.MelrahShake\obj\Debug\netcoreapp2.0\09.MelrahShake.pdb

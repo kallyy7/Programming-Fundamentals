@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\07.MultiplyBigNumber.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\07.MultiplyBigNumber.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\07.MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\07.MultiplyBigNumber.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\bin\Debug\netcoreapp2.0\07.MultiplyBigNumber.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\07.MultiplyBigNumber.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\07.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\07.MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\07.MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\07.MultiplyBigNumber.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\07.MultiplyBigNumber\obj\Debug\netcoreapp2.0\07.MultiplyBigNumber.pdb

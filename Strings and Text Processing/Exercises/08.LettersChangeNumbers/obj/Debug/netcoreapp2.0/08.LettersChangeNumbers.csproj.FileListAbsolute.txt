@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\bin\Debug\netcoreapp2.0\05.MagicExchangeableWords.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\еxercises\exercises\05.MagicExchangeableWords\obj\Debug\netcoreapp2.0\05.MagicExchangeableWords.pdb
