@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\bin\Debug\netcoreapp2.0\04.Palindromes2.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\bin\Debug\netcoreapp2.0\04.Palindromes2.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\bin\Debug\netcoreapp2.0\04.Palindromes2.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\bin\Debug\netcoreapp2.0\04.Palindromes2.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\bin\Debug\netcoreapp2.0\04.Palindromes2.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\obj\Debug\netcoreapp2.0\04.Palindromes2.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\obj\Debug\netcoreapp2.0\04.Palindromes2.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\obj\Debug\netcoreapp2.0\04.Palindromes2.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\obj\Debug\netcoreapp2.0\04.Palindromes2.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\04.Palindromes2\obj\Debug\netcoreapp2.0\04.Palindromes2.pdb

@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurences.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurences.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurences.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurences.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\bin\Debug\netcoreapp2.0\02.CountSubstringOccurences.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurences.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurences.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurences.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurences.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurences.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\Strings and Text Processing\lab\lab\02.CountSubstringOccurences\obj\Debug\netcoreapp2.0\02.CountSubstringOccurences.pdb
