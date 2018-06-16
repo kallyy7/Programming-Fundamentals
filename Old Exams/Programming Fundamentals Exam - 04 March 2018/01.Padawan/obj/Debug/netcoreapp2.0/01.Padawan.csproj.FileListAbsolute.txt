@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\bin\Debug\netcoreapp2.0\01.Padawan.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\bin\Debug\netcoreapp2.0\01.Padawan.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\bin\Debug\netcoreapp2.0\01.Padawan.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\bin\Debug\netcoreapp2.0\01.Padawan.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\bin\Debug\netcoreapp2.0\01.Padawan.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\obj\Debug\netcoreapp2.0\01.Padawan.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\obj\Debug\netcoreapp2.0\01.Padawan.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\obj\Debug\netcoreapp2.0\01.Padawan.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\obj\Debug\netcoreapp2.0\01.Padawan.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\obj\Debug\netcoreapp2.0\01.Padawan.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\01.Padawan\obj\Debug\netcoreapp2.0\01.Padawan.pdb
