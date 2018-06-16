@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\bin\Debug\netcoreapp2.0\01.Snowballs.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\bin\Debug\netcoreapp2.0\01.Snowballs.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\bin\Debug\netcoreapp2.0\01.Snowballs.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\bin\Debug\netcoreapp2.0\01.Snowballs.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\bin\Debug\netcoreapp2.0\01.Snowballs.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\obj\Debug\netcoreapp2.0\01.Snowballs.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\obj\Debug\netcoreapp2.0\01.Snowballs.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\obj\Debug\netcoreapp2.0\01.Snowballs.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\obj\Debug\netcoreapp2.0\01.Snowballs.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\obj\Debug\netcoreapp2.0\01.Snowballs.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\01.Snowballs\obj\Debug\netcoreapp2.0\01.Snowballs.pdb
