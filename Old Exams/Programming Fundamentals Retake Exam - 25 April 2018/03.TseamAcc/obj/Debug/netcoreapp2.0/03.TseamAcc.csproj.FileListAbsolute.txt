@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\bin\Debug\netcoreapp2.0\03.TseamAcc.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\bin\Debug\netcoreapp2.0\03.TseamAcc.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\bin\Debug\netcoreapp2.0\03.TseamAcc.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\bin\Debug\netcoreapp2.0\03.TseamAcc.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\bin\Debug\netcoreapp2.0\03.TseamAcc.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\obj\Debug\netcoreapp2.0\03.TseamAcc.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\obj\Debug\netcoreapp2.0\03.TseamAcc.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\obj\Debug\netcoreapp2.0\03.TseamAcc.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\obj\Debug\netcoreapp2.0\03.TseamAcc.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\obj\Debug\netcoreapp2.0\03.TseamAcc.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 25 April 2018\28April2018Retake\03.TseamAcc\obj\Debug\netcoreapp2.0\03.TseamAcc.pdb
