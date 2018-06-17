@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\bin\Debug\netcoreapp2.0\02.KaminoFactory.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\bin\Debug\netcoreapp2.0\02.KaminoFactory.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\bin\Debug\netcoreapp2.0\02.KaminoFactory.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\bin\Debug\netcoreapp2.0\02.KaminoFactory.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\bin\Debug\netcoreapp2.0\02.KaminoFactory.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\obj\Debug\netcoreapp2.0\02.KaminoFactory.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\obj\Debug\netcoreapp2.0\02.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\obj\Debug\netcoreapp2.0\02.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\obj\Debug\netcoreapp2.0\02.KaminoFactory.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\obj\Debug\netcoreapp2.0\02.KaminoFactory.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\02.KaminoFactory\obj\Debug\netcoreapp2.0\02.KaminoFactory.pdb
