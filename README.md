@@ -36,8 +36,8 @@
 - <a href="" > Exercises </a>
 #### 10. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX" > Regular Expressions (REGEX) </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Lab" > LAB </a>
-- <a href="" > Exercises </a>
-#### 11. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Exercises" > Files and Exceptions </a>
+- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Exercises" > Exercises </a>
+#### 11. <a href="" > Files and Exceptions </a>
 
 #### 12. <a href="" > Git and Github </a>
 
