@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\bin\Debug\netcoreapp2.0\02.MatchPhoneNumber.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\02.MatchPhoneNumber\obj\Debug\netcoreapp2.0\02.MatchPhoneNumber.pdb

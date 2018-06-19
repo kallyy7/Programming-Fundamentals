@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\bin\Debug\netcoreapp2.0\05.MatchNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\05.MatchNumbers\obj\Debug\netcoreapp2.0\05.MatchNumbers.pdb

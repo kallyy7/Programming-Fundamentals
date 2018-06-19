@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\bin\Debug\netcoreapp2.0\03.MatchHexNumbers.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\bin\Debug\netcoreapp2.0\03.MatchHexNumbers.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\bin\Debug\netcoreapp2.0\03.MatchHexNumbers.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\bin\Debug\netcoreapp2.0\03.MatchHexNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\bin\Debug\netcoreapp2.0\03.MatchHexNumbers.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\obj\Debug\netcoreapp2.0\03.MatchHexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\obj\Debug\netcoreapp2.0\03.MatchHexNumbers.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\obj\Debug\netcoreapp2.0\03.MatchHexNumbers.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\obj\Debug\netcoreapp2.0\03.MatchHexNumbers.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\03.MatchHexNumbers\obj\Debug\netcoreapp2.0\03.MatchHexNumbers.pdb

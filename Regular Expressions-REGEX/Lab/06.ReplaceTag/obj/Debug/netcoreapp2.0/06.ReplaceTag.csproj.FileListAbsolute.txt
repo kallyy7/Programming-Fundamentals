@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\bin\Debug\netcoreapp2.0\06.ReplaceTag.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\bin\Debug\netcoreapp2.0\06.ReplaceTag.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\bin\Debug\netcoreapp2.0\06.ReplaceTag.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\bin\Debug\netcoreapp2.0\06.ReplaceTag.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\bin\Debug\netcoreapp2.0\06.ReplaceTag.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\obj\Debug\netcoreapp2.0\06.ReplaceTag.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\obj\Debug\netcoreapp2.0\06.ReplaceTag.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\obj\Debug\netcoreapp2.0\06.ReplaceTag.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\obj\Debug\netcoreapp2.0\06.ReplaceTag.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\lab\lab\06.ReplaceTag\obj\Debug\netcoreapp2.0\06.ReplaceTag.pdb
