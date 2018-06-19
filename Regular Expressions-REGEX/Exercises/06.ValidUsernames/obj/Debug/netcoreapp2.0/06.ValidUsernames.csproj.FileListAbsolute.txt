@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\bin\Debug\netcoreapp2.0\06.ValidUsernames.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\06.ValidUsernames\obj\Debug\netcoreapp2.0\06.ValidUsernames.pdb

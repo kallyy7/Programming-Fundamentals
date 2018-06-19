@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\bin\Debug\netcoreapp2.0\08.UseYourChainsBuddy.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\08.UseYourChainsBuddy\obj\Debug\netcoreapp2.0\08.UseYourChainsBuddy.pdb
