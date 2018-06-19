@@ -35,14 +35,11 @@
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/upload/master/Strings%20and%20Text%20Processing/LAB" > LAB </a>
 - <a href="" > Exercises </a>
 #### 10. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX" > Regular Expressions (REGEX) </a>
-- <a href="" > LAB </a>
+- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Lab" > LAB </a>
 - <a href="" > Exercises </a>
-#### 11. <a href="" > Files and Exceptions </a>
-- <a href="" > LAB </a>
-- <a href="" > Exercises </a>
+#### 11. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Exercises" > Files and Exceptions </a>
+
 #### 12. <a href="" > Git and Github </a>
-- <a href="" > LAB </a>
-- <a href="" > Exercises </a>
 
 ##  <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams" > Old Exams </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Retake%20Exam%20-%2025%20April%202018" > Programming Fundamentals Retake Exam - 25 April 2018 </a>
