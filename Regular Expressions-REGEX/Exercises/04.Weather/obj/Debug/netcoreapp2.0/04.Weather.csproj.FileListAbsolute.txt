@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\bin\Debug\netcoreapp2.0\04.Weather.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\04.Weather\obj\Debug\netcoreapp2.0\04.Weather.csprojAssemblyReference.cache

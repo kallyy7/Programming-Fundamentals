@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\02.ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\02.ExtractSentencesByKeyword.csprojAssemblyReference.cache
