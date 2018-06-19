@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\bin\Debug\netcoreapp2.0\01.ExtractEmails.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\01.ExtractEmails\obj\Debug\netcoreapp2.0\01.ExtractEmails.pdb

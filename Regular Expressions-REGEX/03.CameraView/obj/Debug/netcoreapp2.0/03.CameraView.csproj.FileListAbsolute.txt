@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\bin\Debug\netcoreapp2.0\03.CameraView.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\REGEX\exercises\exercises\03.CameraView\obj\Debug\netcoreapp2.0\03.CameraView.csprojAssemblyReference.cache
