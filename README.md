@@ -53,3 +53,4 @@
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Sample%20Exam%20II%20-%20October%202016" > Programming Fundamentals Sample Exam II - October 2016 </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Sample%20Exam%20I%20-%20October%202016" > Programming Fundamentals Sample Exam I - October 2016 </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Retake%20Exam%20-%2011%20September%202016" > Programming Fundamentals Retake Exam - 11 September 2016 </a>
+- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Exam%20-%2012%20June%202016" > Programming Fundamentals Exam - 12 June 2016 </a>
