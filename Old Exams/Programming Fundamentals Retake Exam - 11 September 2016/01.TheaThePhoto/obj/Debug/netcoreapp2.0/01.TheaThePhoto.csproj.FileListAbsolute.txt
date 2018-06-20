@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\bin\Debug\netcoreapp2.0\01.TheaThePhoto.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\bin\Debug\netcoreapp2.0\01.TheaThePhoto.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\bin\Debug\netcoreapp2.0\01.TheaThePhoto.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\bin\Debug\netcoreapp2.0\01.TheaThePhoto.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\bin\Debug\netcoreapp2.0\01.TheaThePhoto.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\obj\Debug\netcoreapp2.0\01.TheaThePhoto.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\obj\Debug\netcoreapp2.0\01.TheaThePhoto.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\obj\Debug\netcoreapp2.0\01.TheaThePhoto.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\obj\Debug\netcoreapp2.0\01.TheaThePhoto.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\obj\Debug\netcoreapp2.0\01.TheaThePhoto.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 11 September 2016\exam\01.TheaThePhoto\obj\Debug\netcoreapp2.0\01.TheaThePhoto.pdb
