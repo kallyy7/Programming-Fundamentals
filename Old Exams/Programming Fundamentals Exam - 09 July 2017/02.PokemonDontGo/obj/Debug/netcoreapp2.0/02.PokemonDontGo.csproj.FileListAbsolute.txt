@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\bin\Debug\netcoreapp2.0\02.PokemonDontGo.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\bin\Debug\netcoreapp2.0\02.PokemonDontGo.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\bin\Debug\netcoreapp2.0\02.PokemonDontGo.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\bin\Debug\netcoreapp2.0\02.PokemonDontGo.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\bin\Debug\netcoreapp2.0\02.PokemonDontGo.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\obj\Debug\netcoreapp2.0\02.PokemonDontGo.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\obj\Debug\netcoreapp2.0\02.PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\obj\Debug\netcoreapp2.0\02.PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\obj\Debug\netcoreapp2.0\02.PokemonDontGo.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\obj\Debug\netcoreapp2.0\02.PokemonDontGo.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 09 July 2017\exam\02.PokemonDontGo\obj\Debug\netcoreapp2.0\02.PokemonDontGo.pdb
