@@ -10,13 +10,13 @@ namespace _07.QueryMess
         {
             string firstPattern = @"([^&=?]*)=([^&=?]*)";
             string secondPattern = @"((%20|\+)+)";
-            Dictionary<string, List<string>> results = new Dictionary<string, List<string>>();
             string input = Console.ReadLine();
 
             while (!input.Equals("END"))
             {
                 Regex pairs = new Regex(firstPattern);
                 var matches = pairs.Matches(input);
+                Dictionary<string, List<string>> results = new Dictionary<string, List<string>>();
 
                 for (int i = 0; i < matches.Count; i++)
                 {
