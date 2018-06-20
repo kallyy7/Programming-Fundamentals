@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\bin\Debug\netcoreapp2.0\01.SweetDesert.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\bin\Debug\netcoreapp2.0\01.SweetDesert.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\bin\Debug\netcoreapp2.0\01.SweetDesert.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\bin\Debug\netcoreapp2.0\01.SweetDesert.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\bin\Debug\netcoreapp2.0\01.SweetDesert.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\obj\Debug\netcoreapp2.0\01.SweetDesert.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\obj\Debug\netcoreapp2.0\01.SweetDesert.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\obj\Debug\netcoreapp2.0\01.SweetDesert.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\obj\Debug\netcoreapp2.0\01.SweetDesert.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\obj\Debug\netcoreapp2.0\01.SweetDesert.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Sample Exam I - June 2016\exam\01.SweetDesert\obj\Debug\netcoreapp2.0\01.SweetDesert.pdb
