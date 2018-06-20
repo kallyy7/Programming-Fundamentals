@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\bin\Debug\netcoreapp2.0\01.HornetWings.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\bin\Debug\netcoreapp2.0\01.HornetWings.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\bin\Debug\netcoreapp2.0\01.HornetWings.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\bin\Debug\netcoreapp2.0\01.HornetWings.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\bin\Debug\netcoreapp2.0\01.HornetWings.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\obj\Debug\netcoreapp2.0\01.HornetWings.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\obj\Debug\netcoreapp2.0\01.HornetWings.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\obj\Debug\netcoreapp2.0\01.HornetWings.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\obj\Debug\netcoreapp2.0\01.HornetWings.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\obj\Debug\netcoreapp2.0\01.HornetWings.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 26 February 2017\exam\01.HornetWings\obj\Debug\netcoreapp2.0\01.HornetWings.pdb
