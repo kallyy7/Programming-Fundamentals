@@ -49,3 +49,4 @@
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Exam%20-%2009%20July%202017" > Programming Fundamentals Exam - 09 July 2017</a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Exam%20-%2026%20February%202017" > Programming Fundamentals Exam - 26 February 2017 </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Retake%20Exam%20-%20%206%20January%202017" > Programming Fundamentals Retake Exam - 6 January 2017 </a>
+- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Exam%20-%2023%20October%202016" > Programming Fundamentals Exam - 23 October 2016 </a>
