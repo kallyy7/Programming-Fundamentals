@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\bin\Debug\netcoreapp2.0\01.CharityMarathon.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\bin\Debug\netcoreapp2.0\01.CharityMarathon.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\bin\Debug\netcoreapp2.0\01.CharityMarathon.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\bin\Debug\netcoreapp2.0\01.CharityMarathon.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\bin\Debug\netcoreapp2.0\01.CharityMarathon.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\obj\Debug\netcoreapp2.0\01.CharityMarathon.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\obj\Debug\netcoreapp2.0\01.CharityMarathon.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\obj\Debug\netcoreapp2.0\01.CharityMarathon.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\obj\Debug\netcoreapp2.0\01.CharityMarathon.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\obj\Debug\netcoreapp2.0\01.CharityMarathon.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 23 October 2016\exam\01.CharityMarathon\obj\Debug\netcoreapp2.0\01.CharityMarathon.pdb
