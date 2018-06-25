@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\bin\Debug\netcoreapp2.0\04.Snowwhite_2.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\bin\Debug\netcoreapp2.0\04.Snowwhite_2.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\bin\Debug\netcoreapp2.0\04.Snowwhite_2.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\bin\Debug\netcoreapp2.0\04.Snowwhite_2.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\bin\Debug\netcoreapp2.0\04.Snowwhite_2.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\obj\Debug\netcoreapp2.0\04.Snowwhite_2.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\obj\Debug\netcoreapp2.0\04.Snowwhite_2.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\obj\Debug\netcoreapp2.0\04.Snowwhite_2.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\obj\Debug\netcoreapp2.0\04.Snowwhite_2.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\obj\Debug\netcoreapp2.0\04.Snowwhite_2.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\04.Snowwhite_2\obj\Debug\netcoreapp2.0\04.Snowwhite_2.pdb
