@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\bin\Debug\netcoreapp2.0\03.SnowFlake.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\bin\Debug\netcoreapp2.0\03.SnowFlake.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\bin\Debug\netcoreapp2.0\03.SnowFlake.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\bin\Debug\netcoreapp2.0\03.SnowFlake.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\bin\Debug\netcoreapp2.0\03.SnowFlake.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\obj\Debug\netcoreapp2.0\03.SnowFlake.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\obj\Debug\netcoreapp2.0\03.SnowFlake.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\obj\Debug\netcoreapp2.0\03.SnowFlake.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\obj\Debug\netcoreapp2.0\03.SnowFlake.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\obj\Debug\netcoreapp2.0\03.SnowFlake.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Retake Exam - 05 January\05Jan2018\03.SnowFlake\obj\Debug\netcoreapp2.0\03.SnowFlake.pdb
