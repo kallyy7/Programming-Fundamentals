@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\bin\Debug\netcoreapp2.0\03.NetherRealms.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\bin\Debug\netcoreapp2.0\03.NetherRealms.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\bin\Debug\netcoreapp2.0\03.NetherRealms.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\bin\Debug\netcoreapp2.0\03.NetherRealms.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\bin\Debug\netcoreapp2.0\03.NetherRealms.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\obj\Debug\netcoreapp2.0\03.NetherRealms.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\obj\Debug\netcoreapp2.0\03.NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\obj\Debug\netcoreapp2.0\03.NetherRealms.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\obj\Debug\netcoreapp2.0\03.NetherRealms.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\obj\Debug\netcoreapp2.0\03.NetherRealms.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Exam Preparation 2\examPrep\03.NetherRealms\obj\Debug\netcoreapp2.0\03.NetherRealms.pdb
