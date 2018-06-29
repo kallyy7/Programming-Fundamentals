@@ -1,0 +1,10 @@
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\bin\Debug\netcoreapp2.0\03.StarEnigma.deps.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\bin\Debug\netcoreapp2.0\03.StarEnigma.runtimeconfig.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\bin\Debug\netcoreapp2.0\03.StarEnigma.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\bin\Debug\netcoreapp2.0\03.StarEnigma.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\bin\Debug\netcoreapp2.0\03.StarEnigma.pdb
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\obj\Debug\netcoreapp2.0\03.StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\obj\Debug\netcoreapp2.0\03.StarEnigma.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\obj\Debug\netcoreapp2.0\03.StarEnigma.AssemblyInfo.cs
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\obj\Debug\netcoreapp2.0\03.StarEnigma.dll
+C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\_OLD EXAMS\Programming Fundamentals Exam - 04 March 2018\4March2018Exam\03.StarEnigma\obj\Debug\netcoreapp2.0\03.StarEnigma.pdb
