@@ -4,46 +4,102 @@
 
 ## <a href="https://softuni.bg/certificates/details/55640/7b61ca3a" > CERTIFICATE </a>
 
-## Program
-#### 1. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharp%20Intro%20and%20Basic%20Syntax" > CSharp Intro and Basic Syntax </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharp%20Intro%20and%20Basic%20Syntax/LAB" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharp%20Intro%20and%20Basic%20Syntax/Exercises" > Exercises </a>
-#### 2. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharpConditionalStatementsAndLoops" > Conditional Statements and Loops </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharp%20Intro%20and%20Basic%20Syntax/LAB" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharpConditionalStatementsAndLoops/EXERCISES" > Exercises </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharpConditionalStatementsAndLoops/More-Exercises" > More Exercises </a>
-#### 3. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharp%20Intro%20and%20Basic%20Syntax/LAB" > Data Types and Variables </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Data%20Types%20and%20Variables/LAB" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Data%20Types%20and%20Variables/Exercises" > Exercises </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Data%20Types%20and%20Variables/More-Exercises" > More Exercises </a>
-#### 4. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Methods.%20Debugging%20and%20Troubleshooting%20Code" > Methods. Debugging and Troubleshooting Code </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Methods.%20Debugging%20and%20Troubleshooting%20Code/LAB" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Methods.%20Debugging%20and%20Troubleshooting%20Code/Exercises" > Exercises </a>
-#### 5. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Arrays" > Arrays </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Arrays/Lab" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Arrays/Exercises" > Exercises </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Arrays/More%20Exercises" > More Exercises </a>
-#### 6. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Lists" > Lists </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Lists/LAB" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Lists" > Exercises </a>
-#### 7. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Lists" > Dictionaries, Lambda Expressions & LINQ </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/LAB" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/Exercises" > Exercises </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/More%20Exercises" > More Exercises </a>
-#### 8. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Objects%20and%20Classes" > Object and Classes </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Objects%20and%20Classes/LAB" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Objects%20and%20Classes/Exercises" > Exercises </a>
-#### 9. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Strings%20and%20Text%20Processing" > Strings and Text Processing </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/upload/master/Strings%20and%20Text%20Processing/LAB" > LAB </a>
-- <a href="" > Exercises </a>
-#### 10. <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX" > Regular Expressions (REGEX) </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Lab" > LAB </a>
-- <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Exercises" > Exercises </a>
-#### 11. <a href="" > Files and Exceptions </a>
+## PROGRAM
 
-#### 12. <a href="" > Git and Github </a>
 
-##  <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams" > Old Exams </a>
+<table>
+<tr>
+  <th></th><th>Lection</th><th>Lab</th><th>Exercise</th><th>More Exercises</th>
+</tr>
+<tr>
+  <td>1</td>
+  <th>CSharp Intro and Basic Syntax</th>
+  <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharp%20Intro%20and%20Basic%20Syntax/LAB" >LINK</a></td>
+  <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharp%20Intro%20and%20Basic%20Syntax/Exercises" >LINK</a></td>
+  <td><a href="" >-</a></td>
+</tr>
+<tr>
+  <td>2</td>
+  <th>Conditional Statements and Loops</th>
+  <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharpConditionalStatementsAndLoops/LAB" >LINK</a></td>
+  <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharpConditionalStatementsAndLoops/EXERCISES" >LINK</a></td>
+  <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/CSharpConditionalStatementsAndLoops/More-Exercises" >LINK</a></td>
+</tr>
+  <tr>
+  <td>3</td>
+    <th>Data Types and Variables</th>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Data%20Types%20and%20Variables/LAB" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Data%20Types%20and%20Variables/Exercises" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Data%20Types%20and%20Variables/More-Exercises" >LINK</a></td>
+</tr>
+  <tr>
+  <td>4</td>
+    <th>Methods. Debugging and Troubleshooting Code </th>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Methods.%20Debugging%20and%20Troubleshooting%20Code/LAB" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Methods.%20Debugging%20and%20Troubleshooting%20Code/Exercises" >LINK</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+  <tr>
+  <td>5</td>
+    <th>Arrays</th>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Arrays/Lab" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Arrays/Exercises" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Arrays/More%20Exercises" >LINK</a></td>
+</tr>
+  <tr>
+  <td>6</td>
+    <th>Lists</th>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Lists/LAB" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Lists" >LINK</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+  <tr>
+  <td>7</td>
+    <th>Dictionaries, Lambda Expressions & LINQ</th>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/LAB" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/Exercises" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Dictionaries-%20Lambda%20Expressions%20and%20LINQ/More%20Exercises" >LINK</a></td>
+</tr>
+    <tr>
+  <td>8</td>
+    <th>Object and Classes</th>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Objects%20and%20Classes/LAB" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Objects%20and%20Classes/Exercises" >LINK</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+  </tr>
+    <tr>
+  <td>9</td>
+    <th>Strings and Text Processing</th>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/upload/master/Strings%20and%20Text%20Processing/LAB" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Strings%20and%20Text%20Processing/Exercises" >LINK</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+<tr>
+  <td>10</td>
+    <th>Regular Expressions (REGEX)</th>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Lab"" >JLINK</a></td>
+    <td><a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Regular%20Expressions-REGEX/Exercises" >LINK</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+<tr>
+  <td>11</td>
+    <th>Files and Exceptions</th>
+    <td><a href="" >-</a></td>
+    <td><a href="" >-</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+<tr>
+  <td>12</td>
+    <th>Git and Github</th>
+    <td><a href="" >-</a></td>
+    <td><a href="" >-</a></td>
+    <td><a href="" >-</a></td>
+</tr>
+<tr>
+  </table>
+  
+##  <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams" > OLD EXAMS </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Retake%20Exam%20-%2025%20April%202018" > Programming Fundamentals Retake Exam - 25 April 2018 </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Exam%20-%2004%20March%202018" > Programming Fundamentals Exam - 04 March 2018 </a>
 - <a href="https://github.com/kallyy7/Programming-Fundamentals/tree/master/Old%20Exams/Programming%20Fundamentals%20Retake%20Exam%20-%2005%20January" > Programming Fundamentals Retake Exam - 05 January 2018 </a>
