@@ -1,6 +1,0 @@
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe.config
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\11.ConvertSpeedUnits\bin\Debug\11.ConvertSpeedUnits.pdb
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.csproj.CoreCompileInputs.cache
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\11.ConvertSpeedUnits\obj\Debug\11.ConvertSpeedUnits.pdb

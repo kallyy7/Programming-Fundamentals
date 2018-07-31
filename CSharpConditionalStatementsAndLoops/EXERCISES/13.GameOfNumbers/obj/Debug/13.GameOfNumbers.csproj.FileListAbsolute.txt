@@ -1,6 +1,0 @@
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe.config
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\13.GameOfNumbers\bin\Debug\13.GameOfNumbers.pdb
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.csproj.CoreCompileInputs.cache
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\13.GameOfNumbers\obj\Debug\13.GameOfNumbers.pdb

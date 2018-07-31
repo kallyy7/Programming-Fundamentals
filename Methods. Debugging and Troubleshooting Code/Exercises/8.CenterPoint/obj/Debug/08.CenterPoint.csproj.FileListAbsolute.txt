@@ -1,7 +1,0 @@
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\8.CenterPoint\bin\Debug\8.CenterPoint.exe.config
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\8.CenterPoint\bin\Debug\8.CenterPoint.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\8.CenterPoint\bin\Debug\8.CenterPoint.pdb
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\8.CenterPoint\obj\Debug\08.CenterPoint.csprojAssemblyReference.cache
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\8.CenterPoint\obj\Debug\08.CenterPoint.csproj.CoreCompileInputs.cache
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\8.CenterPoint\obj\Debug\8.CenterPoint.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\04.Methods. Debugging and Troubleshooting Code\Exercises\Methods-Exercisess\8.CenterPoint\obj\Debug\8.CenterPoint.pdb

@@ -1,7 +1,0 @@
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\12.TestNumbers\bin\Debug\12.TestNumbers.exe.config
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\12.TestNumbers\bin\Debug\12.TestNumbers.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\12.TestNumbers\bin\Debug\12.TestNumbers.pdb
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\12.TestNumbers\obj\Debug\12.TestNumbers.csprojAssemblyReference.cache
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\12.TestNumbers\obj\Debug\12.TestNumbers.csproj.CoreCompileInputs.cache
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\12.TestNumbers\obj\Debug\12.TestNumbers.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\02.CSharpConditionalStatementsAndLoops\exercises\ConStatAndLoops-ex\12.TestNumbers\obj\Debug\12.TestNumbers.pdb

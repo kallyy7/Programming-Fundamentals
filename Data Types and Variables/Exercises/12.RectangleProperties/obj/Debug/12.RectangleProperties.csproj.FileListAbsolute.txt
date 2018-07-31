@@ -1,6 +1,0 @@
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe.config
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\12.RectangleProperties\bin\Debug\12.RectangleProperties.pdb
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.csproj.CoreCompileInputs.cache
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.exe
-C:\Users\a38145\Desktop\СОФТУНИ\_TECH MODULE\Programming Fundamentals\03.Data Types and Variables\Exercises\exercises\12.RectangleProperties\obj\Debug\12.RectangleProperties.pdb
