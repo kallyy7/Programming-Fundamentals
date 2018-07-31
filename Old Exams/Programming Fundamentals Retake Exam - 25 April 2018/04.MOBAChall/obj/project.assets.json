@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Retake Exam - 25 April 2018\\28April2018Retake\\04.MOBAChall\\04.MOBAChall.csproj",
+      "projectUniqueName": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Retake Exam - 25 April 2018\\04.MOBAChall\\04.MOBAChall.csproj",
       "projectName": "04.MOBAChall",
-      "projectPath": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Retake Exam - 25 April 2018\\28April2018Retake\\04.MOBAChall\\04.MOBAChall.csproj",
+      "projectPath": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Retake Exam - 25 April 2018\\04.MOBAChall\\04.MOBAChall.csproj",
       "packagesPath": "C:\\Users\\a38145\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Retake Exam - 25 April 2018\\28April2018Retake\\04.MOBAChall\\obj\\",
+      "outputPath": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Retake Exam - 25 April 2018\\04.MOBAChall\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

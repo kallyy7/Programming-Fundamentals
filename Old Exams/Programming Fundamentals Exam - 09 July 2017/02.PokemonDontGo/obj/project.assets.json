@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Exam - 09 July 2017\\exam\\02.PokemonDontGo\\02.PokemonDontGo.csproj",
+      "projectUniqueName": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Exam - 09 July 2017\\02.PokemonDontGo\\02.PokemonDontGo.csproj",
       "projectName": "02.PokemonDontGo",
-      "projectPath": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Exam - 09 July 2017\\exam\\02.PokemonDontGo\\02.PokemonDontGo.csproj",
+      "projectPath": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Exam - 09 July 2017\\02.PokemonDontGo\\02.PokemonDontGo.csproj",
       "packagesPath": "C:\\Users\\a38145\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Exam - 09 July 2017\\exam\\02.PokemonDontGo\\obj\\",
+      "outputPath": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Exam - 09 July 2017\\02.PokemonDontGo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

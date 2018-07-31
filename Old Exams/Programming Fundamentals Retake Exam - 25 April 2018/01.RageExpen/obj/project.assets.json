@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Retake Exam - 25 April 2018\\28April2018Retake\\01.RageExpen\\01.RageExpen.csproj",
+      "projectUniqueName": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Retake Exam - 25 April 2018\\01.RageExpen\\01.RageExpen.csproj",
       "projectName": "01.RageExpen",
-      "projectPath": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Retake Exam - 25 April 2018\\28April2018Retake\\01.RageExpen\\01.RageExpen.csproj",
+      "projectPath": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Retake Exam - 25 April 2018\\01.RageExpen\\01.RageExpen.csproj",
       "packagesPath": "C:\\Users\\a38145\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Retake Exam - 25 April 2018\\28April2018Retake\\01.RageExpen\\obj\\",
+      "outputPath": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Retake Exam - 25 April 2018\\01.RageExpen\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

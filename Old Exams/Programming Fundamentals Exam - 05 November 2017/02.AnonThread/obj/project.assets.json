@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Exam - 05 November 2017\\05November2017\\02.AnonThread\\02.AnonThread.csproj",
+      "projectUniqueName": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Exam - 05 November 2017\\02.AnonThread\\02.AnonThread.csproj",
       "projectName": "02.AnonThread",
-      "projectPath": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Exam - 05 November 2017\\05November2017\\02.AnonThread\\02.AnonThread.csproj",
+      "projectPath": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Exam - 05 November 2017\\02.AnonThread\\02.AnonThread.csproj",
       "packagesPath": "C:\\Users\\a38145\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a38145\\Desktop\\СОФТУНИ\\_TECH MODULE\\Programming Fundamentals\\_OLD EXAMS\\Programming Fundamentals Exam - 05 November 2017\\05November2017\\02.AnonThread\\obj\\",
+      "outputPath": "C:\\Users\\a38145\\Desktop\\SoftUni\\Programming-Fundamentals\\Old Exams\\Programming Fundamentals Exam - 05 November 2017\\02.AnonThread\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
