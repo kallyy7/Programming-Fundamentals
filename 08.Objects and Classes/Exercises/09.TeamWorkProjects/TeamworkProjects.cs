@@ -6,7 +6,7 @@ public class TeamworkProjects
 {
     public static void Main()
     {
-        var teamCount = int.Parse(Console.ReadLine());
+        int teamCount = int.Parse(Console.ReadLine());
 
         var teams = new List<Team>();
         var messages = new List<string>();
@@ -14,8 +14,8 @@ public class TeamworkProjects
         for (int i = 0; i < teamCount; i++)
         {
             var teamArgs = Console.ReadLine().Split('-');
-            var creator = teamArgs[0];
-            var teamName = teamArgs[1];
+            string creator = teamArgs[0];
+            string teamName = teamArgs[1];
 
             if (teams.Any(x => x.Name == teamName))
             {
@@ -33,13 +33,14 @@ public class TeamworkProjects
             }
         }
 
-        var inputLine = Console.ReadLine();
+        string inputLine = Console.ReadLine();
 
         while (!inputLine.Equals("end of assignment"))
         {
-            var teamArgs = inputLine.Split(new char[] { '-', '>' }, StringSplitOptions.RemoveEmptyEntries);
-            var userName = teamArgs[0];
-            var teamName = teamArgs[1];
+            var teamArgs = inputLine
+                .Split("- >".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
+            string userName = teamArgs[0];
+            string teamName = teamArgs[1];
 
             if (!teams.Any(x => x.Name == teamName))
             {
@@ -47,7 +48,9 @@ public class TeamworkProjects
             }
             else
             {
-                var currentTeam = teams.Where(x => x.Name == teamName).First();
+                var currentTeam = teams
+                    .Where(x => x.Name == teamName)
+                    .First();
 
                 if (teams.Exists(x => x.Creator == userName) || teams.Select(x => x.Members).Any(x => x.Contains(userName)))
                 {
@@ -102,9 +105,7 @@ public class TeamworkProjects
         }
 
         public string Name { get; set; }
-
         public string Creator { get; set; }
-
         public List<string> Members { get; set; }
     }
 }

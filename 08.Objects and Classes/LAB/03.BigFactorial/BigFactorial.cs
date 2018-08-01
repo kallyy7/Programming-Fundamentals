@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Numerics;
 
-class Program
+public class BigFactorial
 {
-    static void Main()
+    public static void Main()
     {
         BigInteger factorial = 1;
         int n = int.Parse(Console.ReadLine());
@@ -12,6 +12,7 @@ class Program
         {
             factorial *= i;
         }
+
         Console.WriteLine(factorial);
     }
 }

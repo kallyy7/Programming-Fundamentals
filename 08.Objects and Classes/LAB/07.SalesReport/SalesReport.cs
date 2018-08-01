@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-class Program
+
+public class SalesReport
 {
-    static void Main()
+    public static void Main()
     {
         List<Sale> sales = new List<Sale>();
         int numberOfSalse = int.Parse(Console.ReadLine());
 
         for (int i = 0; i < numberOfSalse; i++)
         {
-            string[] saleParameters = Console.ReadLine().Split();
+            string[] saleParameters = Console.ReadLine()
+                .Split();
             Sale sale = new Sale()
             {
                 Town = saleParameters[0],
@@ -18,19 +20,27 @@ class Program
                 Price = decimal.Parse(saleParameters[2]),
                 Quantity = double.Parse(saleParameters[3])
             };
+
             sales.Add(sale);
         }
-        List<string> towns = sales.Select(x => x.Town).Distinct().OrderBy(x => x).ToList();
+        List<string> towns = sales
+            .Select(x => x.Town)
+            .Distinct()
+            .OrderBy(x => x)
+            .ToList();
 
         foreach (var town in towns)
         {
-            decimal townRevenue = sales.Where(sale => sale.Town == town).Select(sale => sale.Revenue()).Sum();
+            decimal townRevenue = sales
+                .Where(sale => sale.Town == town)
+                .Select(sale => sale.Revenue())
+                .Sum();
             Console.WriteLine("{0} -> {1:f2}", town, townRevenue);
         }
     }
 }
 
-class Sale
+public class Sale
 {
     public string Town { get; set; }
     public string Product { get; set; }
@@ -42,4 +52,3 @@ class Sale
         return Price * (decimal)Quantity;
     }
 }
-

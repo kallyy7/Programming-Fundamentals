@@ -9,14 +9,15 @@ public class MentorGroup
     {
         var students = new List<Student>();
 
-        var inputLine = Console.ReadLine();
+        string inputLine = Console.ReadLine();
 
         while (!inputLine.Equals("end of dates"))
         {
-            var studentsActivities = inputLine.Split(new char[] { ',', ' ' }, StringSplitOptions.RemoveEmptyEntries)
+            var studentsActivities = inputLine
+              .Split(" ,".ToCharArray(), StringSplitOptions.RemoveEmptyEntries)
               .ToArray();
 
-            var studentName = studentsActivities[0];
+            string studentName = studentsActivities[0];
             var dates = studentsActivities
                 .Skip(1)
                 .Select(x => DateTime.ParseExact(x, "dd/MM/yyyy", CultureInfo.InvariantCulture))
@@ -24,7 +25,9 @@ public class MentorGroup
 
             if (students.Any(x => x.Name == studentName))
             {
-                var existingStudent = students.Where(x => x.Name == studentName).First();
+                var existingStudent = students
+                    .Where(x => x.Name == studentName)
+                    .First();
                 existingStudent.DatesActivities.AddRange(dates);
             }
             else
@@ -41,12 +44,14 @@ public class MentorGroup
         while (!inputLine.Equals("end of comments"))
         {
             var studentComment = inputLine.Split('-');
-            var studentName = studentComment[0];
-            var comment = studentComment[1];
+            string studentName = studentComment[0];
+            string comment = studentComment[1];
 
             if (students.Any(x => x.Name == studentName))
             {
-                var existingStudent = students.Where(x => x.Name == studentName).First();
+                var existingStudent = students
+                    .Where(x => x.Name == studentName)
+                    .First();
                 existingStudent.Comments.Add(comment);
             }
 

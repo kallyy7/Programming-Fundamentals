@@ -1,12 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-class Point
-{
-    public double X { get; set; }
-    public double Y { get; set; }
-}
-class Program
+public class DistanceBetweenPoints
 {
     static void Main()
     {
@@ -20,9 +15,15 @@ class Program
 
         Console.WriteLine("{0:f3}", distance);
     }
-    public static double CalcDistance(Point firstPoint, Point secondPoint)
+
+    private static double CalcDistance(Point firstPoint, Point secondPoint)
     {
         var hypotenuse = Math.Sqrt(Math.Pow(firstPoint.X - secondPoint.X, 2) + Math.Pow(firstPoint.Y - secondPoint.Y, 2));
         return hypotenuse;
     }
+}
+public class Point
+{
+    public double X { get; set; }
+    public double Y { get; set; }
 }

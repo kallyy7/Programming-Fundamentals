@@ -1,18 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-class Program
-{
-    public class Point
-    {
-        public double X { get; set; }
-        public double Y { get; set; }
 
-        public string Print()
-        {
-            return $"({X}, {Y})";
-        }
-    }
-    static void Main()
+public class ClosestTwoPoints
+{
+    public static void Main()
     {
         int n = int.Parse(Console.ReadLine());
 
@@ -53,7 +44,7 @@ class Program
         }
     }
 
-    public static void PrintPoints(double smallestDistance, Point firstPointResult, Point secondPointResult)
+    private static void PrintPoints(double smallestDistance, Point firstPointResult, Point secondPointResult)
     {
         Console.WriteLine($"{smallestDistance:f3}");
         Console.WriteLine(firstPointResult.Print());
@@ -61,7 +52,7 @@ class Program
     }
 
 
-    public static Point ReadPoint()
+    private static Point ReadPoint()
     {
         string[] pointParts = Console.ReadLine().Split(' ');
 
@@ -73,9 +64,19 @@ class Program
         return pointCoordatinates;
     }
 
-    public static double CalculteDistance(Point firstPoint, Point secondPoint)
+    private static double CalculteDistance(Point firstPoint, Point secondPoint)
     {
         var hypotenuse = Math.Sqrt(Math.Pow(firstPoint.X - secondPoint.X, 2) + Math.Pow(firstPoint.Y - secondPoint.Y, 2));
         return hypotenuse;
+    }
+}
+public class Point
+{
+    public double X { get; set; }
+    public double Y { get; set; }
+
+    public string Print()
+    {
+        return $"({X}, {Y})";
     }
 }

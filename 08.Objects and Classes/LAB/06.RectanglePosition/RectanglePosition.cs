@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Linq;
 
-class Program
+public class RectanglePosition
 {
-    static void Main()
+    public static void Main()
     {
         Rectangle firstRectangle = ReadRectangle();
         Rectangle secondRectangle = ReadRectangle();
@@ -15,9 +15,12 @@ class Program
         Console.WriteLine(printResult);
     }
 
-    public static Rectangle ReadRectangle()
+    private static Rectangle ReadRectangle()
     {
-        int[] rectangleParts = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+        int[] rectangleParts = Console.ReadLine()
+            .Split(' ')
+            .Select(int.Parse)
+            .ToArray();
 
         Rectangle rect = new Rectangle
         {
@@ -35,26 +38,9 @@ class Program
         public int Top { get; set; }
         public int Width { get; set; }
         public int Height { get; set; }
-        public int Bottom
-        {
-            get
-            {
-                return Top + Height;
-            }
-        }
-
-        public int Right
-        {
-            get
-            {
-                return Left + Width;
-            }
-        }
-
-        public int CalcArea()
-        {
-            return Height * Width;
-        }
+        public int Bottom => Top + Height;
+        private int Right => Left + Width;
+       
 
         public bool IsInside(Rectangle rectangle)
         {
@@ -65,6 +51,5 @@ class Program
 
             return isLeftValid && isTopValid && isRightValid && isBottomValid;
         }
-
     }
 }

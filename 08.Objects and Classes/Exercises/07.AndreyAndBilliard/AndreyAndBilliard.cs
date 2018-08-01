@@ -14,6 +14,7 @@ public class AndreyAndBilliard
         List<Customer> customers = new List<Customer>();
 
         string client = Console.ReadLine();
+
         while (!client.Equals("end of clients"))
         {
             string[] clientArgs = client.Split(new char[] { ',', '-' }).ToArray();
@@ -26,6 +27,7 @@ public class AndreyAndBilliard
             if (customers.Any(c => c.Name == clientArgs[0]))
             {
                 var existingCustomer = customers.First(c => c.Name == clientArgs[0]);
+
                 if (existingCustomer.ShopList.ContainsKey(productName))
                 {
                     existingCustomer.ShopList[productName] += quantity;
