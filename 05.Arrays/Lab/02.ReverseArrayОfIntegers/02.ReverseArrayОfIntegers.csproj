@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2E4A45A5-AE0D-42A3-935A-CFE91171D11B}</ProjectGuid>
+    <ProjectGuid>{B30F33D7-9B74-4532-B386-2168DD6AF424}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01.DayOfWeek</RootNamespace>
-    <AssemblyName>01.DayOfWeek</AssemblyName>
+    <RootNamespace>_02.ReverseArrayОfIntegers</RootNamespace>
+    <AssemblyName>02.ReverseArrayОfIntegers</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DayOfWeek.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
