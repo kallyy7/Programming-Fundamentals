@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-  <th></th><th>:books:Lection</th><th>:computer:Lab</th><th>:pencil:Exercise</th><th>:pencil:ore Exercises</th>
+  <th></th><th>:books:Lection</th><th>:computer:Lab</th><th>:pencil:Exercise</th><th>:pencil:More Exercises</th>
 </tr>
 <tr>
   <td>1</td>
